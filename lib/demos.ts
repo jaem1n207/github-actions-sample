@@ -80,4 +80,14 @@ export const demos: Item[] = [
       },
     ],
   },
+  {
+    name: 'Testing',
+    items: [
+      {
+        name: 'Query with Router',
+        slug: 'test-query',
+        description: 'Test Query with Router',
+      },
+    ],
+  },
 ];
